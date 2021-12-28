@@ -1,0 +1,47 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.input-area {
+    margin-bottom: 40px;
+}
+
+#inputTask {
+    padding: 8px;
+    width: 175px;
+}
+
+#addBtn {
+    background-color: rgb(112, 196, 2);
+    border: none;
+    padding: 10px 15px;
+    margin-left: 10px;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0px;
+}
+
+li {
+    margin-bottom: 15px;
+    font-size: 20px;
+    width: 350px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid rgb(151, 151, 151);
+}
+
+i {
+    font-size: 15px;
+    color: red;
+}
+
+
+
